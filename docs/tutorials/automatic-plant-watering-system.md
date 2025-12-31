@@ -1,3 +1,6 @@
+
+![Alt text](https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/automatic-plant-watering-system.png)
+
 ## 2. Project Description  
 
 An Automatic Plant Watering System is a smart irrigation solution that supplies water to plants based on soil moisture levels. The system uses a soil moisture sensor to monitor soil condition and automatically activates a water pump through a relay module when the soil becomes dry. This ensures optimal watering without manual intervention and prevents overwatering.
