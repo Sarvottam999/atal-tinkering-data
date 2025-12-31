@@ -1,10 +1,10 @@
 [
     {
       "id": "1",
-      "title": "My First Blog",
-      "description": "...",
+      "title": "Smart Dustbin (Automatic Lid) Using Arduino",
+      "description": "A Smart Dustbin is an automated waste bin that opetrns...",
       "category": "tutorials",
-      "mdUrl": "arduino-basics",
+      "mdUrl": "smart-dustbin",
       "lastUpdated": "Jan 1, 2025"
     }
   ]
