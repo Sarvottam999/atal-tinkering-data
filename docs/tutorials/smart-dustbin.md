@@ -104,4 +104,4 @@ void loop() {
 }
 ```
 
-![Alt text](https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/dustbin_circuit.png)
+![Alt text](https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/dustbin-circuit.png)

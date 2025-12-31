@@ -1,5 +1,5 @@
 
-![Alt text](https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/automatic-plant-watering-system.png)
+![Alt text](https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/plant-watering.png)
 
 ## 2. Project Description  
 
