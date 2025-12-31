@@ -102,3 +102,6 @@ void loop() {
 
   delay(200);
 }
+```
+
+![Alt text](https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/dustbin.png)
