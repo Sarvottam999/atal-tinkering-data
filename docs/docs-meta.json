@@ -7,5 +7,14 @@
       "mdUrl": "smart-dustbin",
       "lastUpdated": "Jan 1, 2025",
       "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/dustbin.png"
+    },
+    {
+      "id": "2",
+      "title": "Automatic Plant Watering System Using Arduino",
+      "description": "An Automatic Plant Watering System is a smart irrigation...",
+      "category": "tutorials",
+      "mdUrl": "plant-watering",
+      "lastUpdated": "Jan 1, 2025",
+      "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/plant-watering.png"
     }
   ]
