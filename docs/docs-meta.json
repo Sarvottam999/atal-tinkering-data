@@ -1,5 +1,14 @@
 [
     {
+      "id": "0",
+      "title": "Arduino Pin Guide for Beginners: Easy Explanations for Every Pin",
+      "description": "Arduino Pin Guide...",
+      "category": "tutorials",
+      "mdUrl": "arduino-basics",
+      "lastUpdated": "Jan 1, 2025",
+      "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/arduino-basics.png"
+    },
+    {
       "id": "1",
       "title": "Smart Dustbin (Automatic Lid) Using Arduino",
       "description": "A Smart Dustbin is an automated waste bin that opetrns...",
@@ -17,4 +26,5 @@
       "lastUpdated": "Jan 1, 2025",
       "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/plant-watering.png"
     }
+    
   ]
