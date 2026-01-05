@@ -10,6 +10,15 @@
     },
     {
       "id": "1",
+      "title": "Blinking LED Project using Arduino",
+      "description": "In this project, we will make a small light blink ON and OFF...",
+      "category": "tutorials",
+      "mdUrl": "blink-led",
+      "lastUpdated": "Jan 1, 2025",
+      "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/blink-led.png"
+    },
+    {
+      "id": "2",
       "title": "Smart Dustbin (Automatic Lid) Using Arduino",
       "description": "A Smart Dustbin is an automated waste bin that opetrns...",
       "category": "tutorials",
@@ -18,7 +27,7 @@
       "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/dustbin.png"
     },
     {
-      "id": "2",
+      "id": "3",
       "title": "Automatic Plant Watering System Using Arduino",
       "description": "An Automatic Plant Watering System is a smart irrigation...",
       "category": "tutorials",

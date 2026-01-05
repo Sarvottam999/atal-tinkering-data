@@ -41,7 +41,7 @@ This automated process ensures efficient water usage and healthy plant growth.
 
 ## 6. Circuit Connections  
 
-### Soil Moisture Sensor  
+### Soil Moisture Sensor
 
 | Sensor Pin | Arduino Pin |
 | ---------- | ----------- |
