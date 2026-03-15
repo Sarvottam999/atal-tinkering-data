@@ -52,6 +52,15 @@
       "mdUrl": "project-using-rfid-buzzer",
       "lastUpdated": "Mar 15, 2025",
       "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/project-using-rfid-buzzer.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Project Using LDR",
+      "description": "In this project, we will build a **LDR**,  ...",
+      "category": "tutorials",
+      "mdUrl": "project-using-ldr",
+      "lastUpdated": "Mar 15, 2025",
+      "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/project-using-rfid-buzzer.jpg"
     }
     
   ]
