@@ -1,4 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/rfid.jpg)
+![Alt text](https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/project-using-rfid-buzzer.jpg)
 
 ## 👋 Hello Little Makers!
 
