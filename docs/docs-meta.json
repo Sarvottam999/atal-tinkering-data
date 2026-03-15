@@ -62,5 +62,15 @@
       "lastUpdated": "Mar 15, 2025",
       "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/project-using-ldr.jpg"
     }
+    ,
+    {
+      "id": "7",
+      "title": "Project Using LDR",
+      "description": "In this project, we will build a **LDR**,  ...",
+      "category": "tutorials",
+      "mdUrl": "project-using-keypad",
+      "lastUpdated": "Mar 15, 2025",
+      "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/project-using-ldr.jpg"
+    }
     
   ]
