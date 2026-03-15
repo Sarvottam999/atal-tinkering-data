@@ -80,6 +80,7 @@ It has **2 pins**:
 Copy and paste this code into the **Arduino IDE**:
 
 ​```cpp
+
 #define trigPin 9
 #define echoPin 10
 #define buzzerPin 6
@@ -228,6 +229,7 @@ void loop() {
       break;
   }
 }
+
 ​```
 
 ---
