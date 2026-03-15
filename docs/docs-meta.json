@@ -34,6 +34,15 @@
       "mdUrl": "automatic-plant-watering-system",
       "lastUpdated": "Jan 1, 2025",
       "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/plant-watering.png"
+    },
+    {
+      "id": "4",
+      "title": "Project Using Ultrasonic Sensor and Buzzer",
+      "description": "In this project, we will make a **smart distance sensor** ...",
+      "category": "tutorials",
+      "mdUrl": "project-using-ultrasonic-buzzer",
+      "lastUpdated": "Mar 15, 2025",
+      "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/project-using-ultrasonic-buzzer.png"
     }
     
   ]
