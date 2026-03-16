@@ -25,7 +25,7 @@
 
 ## 3️⃣ Servo Motor Connections
 
-| Servo Wire | Connected To | Arduino Pin |
+g| Servo Wire | Connected To | Arduino Pin |
 | --- | --- | --- |
 | Red | Power | 5V |
 | Brown / Black | Ground | GND |
