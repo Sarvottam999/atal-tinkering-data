@@ -60,7 +60,7 @@
       "category": "tutorials",
       "mdUrl": "project-using-ldr",
       "lastUpdated": "Mar 15, 2025",
-      "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/project-using-ldr.jpg"
+      "img":""
     }
     ,
     {
@@ -70,7 +70,7 @@
       "category": "tutorials",
       "mdUrl": "project-using-keypad",
       "lastUpdated": "Mar 15, 2025",
-      "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/project-using-ldr.jpg"
+      "img":""
     }
     ,
     {
@@ -80,16 +80,16 @@
       "category": "tutorials",
       "mdUrl": "project-using-rain-sensor",
       "lastUpdated": "Mar 15, 2025",
-      "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/project-using-ldr.jpg"
+      "img":""
     },
     {
       "id": "9",
-      "title": "Project Using Rain Sensor",
-      "description": "In this project, we will build a **LDR**,  ...",
+      "title": "Project Using IR Sensor",
+      "description": "In this project, we will build a **IR**,  ...",
       "category": "tutorials",
-      "mdUrl": "project-using-rain-sensor",
+      "mdUrl": "project-using-ir",
       "lastUpdated": "Mar 15, 2025",
-      "img":"https://raw.githubusercontent.com/Sarvottam999/atal-tinkering-data/main/imgs/project-using-ldr.jpg"
+      "img":""
     }
     
   ]
