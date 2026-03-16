@@ -38,7 +38,7 @@
     {
       "id": "4",
       "title": "Project Using Ultrasonic Sensor and Buzzer",
-      "description": "In this project, we will make a **smart distance sensor** ...",
+      "description": "In this project, we will make a smart distance sensor ...",
       "category": "tutorials",
       "mdUrl": "project-using-ultrasonic-buzzer",
       "lastUpdated": "Mar 15, 2025",
@@ -47,7 +47,7 @@
     {
       "id": "5",
       "title": "Project Using RFID and Buzzer",
-      "description": "In this project, we will build a **smart RFID system** using  an **RFID RC522 sensor**,  ...",
+      "description": "In this project, we will build a smart RFID system using  an RFID RC522 sensor,  ...",
       "category": "tutorials",
       "mdUrl": "project-using-rfid-buzzer",
       "lastUpdated": "Mar 15, 2025",
@@ -56,7 +56,7 @@
     {
       "id": "6",
       "title": "Project Using LDR",
-      "description": "In this project, we will build a **LDR**,  ...",
+      "description": "In this project, we will build a LDR,  ...",
       "category": "tutorials",
       "mdUrl": "project-using-ldr",
       "lastUpdated": "Mar 15, 2025",
@@ -66,7 +66,7 @@
     {
       "id": "7",
       "title": "Project Using Keypad",
-      "description": "In this project, we will build a **Keypad**,  ...",
+      "description": "In this project, we will build a Keypad,  ...",
       "category": "tutorials",
       "mdUrl": "project-using-keypad",
       "lastUpdated": "Mar 15, 2025",
@@ -76,7 +76,7 @@
     {
       "id": "8",
       "title": "Project Using Rain Sensor",
-      "description": "In this project, we will build a **LDR**,  ...",
+      "description": "In this project, we will build a LDR,  ...",
       "category": "tutorials",
       "mdUrl": "project-using-rain-sensor",
       "lastUpdated": "Mar 15, 2025",
@@ -85,7 +85,16 @@
     {
       "id": "9",
       "title": "Project Using IR Sensor",
-      "description": "In this project, we will build a **IR**,  ...",
+      "description": "In this project, we will build a IR,  ...",
+      "category": "tutorials",
+      "mdUrl": "project-using-ir",
+      "lastUpdated": "Mar 15, 2025",
+      "img":""
+    },
+    {
+      "id": "10",
+      "title": "Project Using Bluetooth Module",
+      "description": "In this project, we will build a Bluetooth Module,  ...",
       "category": "tutorials",
       "mdUrl": "project-using-ir",
       "lastUpdated": "Mar 15, 2025",
