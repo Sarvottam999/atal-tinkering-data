@@ -99,6 +99,15 @@
       "mdUrl": "project-using-bluetooth",
       "lastUpdated": "Mar 15, 2025",
       "img":""
+    },
+    {
+      "id": "11",
+      "title": "Project Using Soil Moisture Sensor Module",
+      "description": "In this project, we will build a Soil Moisture Sensor,  ...",
+      "category": "tutorials",
+      "mdUrl": "project-using-soil-moisture",
+      "lastUpdated": "Mar 15, 2025",
+      "img":""
     }
     
   ]
