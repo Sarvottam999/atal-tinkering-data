@@ -108,6 +108,15 @@
       "mdUrl": "project-using-soil-moisture",
       "lastUpdated": "Mar 15, 2025",
       "img":""
+    },
+    {
+      "id": "12",
+      "title": "Project Using Servo and Ultrasonic Sensor",
+      "description": "In this project, we will build a Servo and Ultrasonic Sensor,  ...",
+      "category": "tutorials",
+      "mdUrl": "project-using-servo-ultrasonic-sensor",
+      "lastUpdated": "Mar 15, 2025",
+      "img":""
     }
     
   ]
